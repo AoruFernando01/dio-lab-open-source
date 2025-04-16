@@ -92,4 +92,7 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 </a>
 
 ##
+
+<div> i love bolo de Lasanha, <a href="https://github.com/AoruFernando01"> aqui </a> </div>
+
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
